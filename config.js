@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Я тобі подобаюсь??",                                    // First interaction
             yesBtn: "Так",                                             // Text for "Yes" button
             noBtn: "Ні",                                               // Text for "No" button
-            secretAnswer: "Ти мені не подобаєшся, я кохаю тебе! ❤️"           // Secret hover message
+            secretAnswer: "Я кохаю тебе! ❤️"           // Secret hover message
         },
         second: {
             text: "Наскільки сильно ти мене любиш?",                          // For the love meter
